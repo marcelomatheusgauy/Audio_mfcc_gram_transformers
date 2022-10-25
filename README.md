@@ -1,6 +1,6 @@
 # Audio_mfcc_gram_transformers
 
-This repository contains the code for the paper 'Audio MFCC-gram Transformers for Respiratory Insufficiency detection'. For questions regarding the implementation contact: marcelomatheusgauy@gmail.com
+This repository contains the code for the paper 'Audio MFCC-gram Transformers for respiratory insufficiency detection in COVID-19'. For questions regarding the implementation contact: marcelomatheusgauy@gmail.com
 
 The file transformer_encoder.py contains the implementation of the transformer encoder modules. As mentioned in the paper it is based on the implementation found at: http://nlp.seas.harvard.edu/2018/04/03/attention.html. Details can be found in the paper
 
