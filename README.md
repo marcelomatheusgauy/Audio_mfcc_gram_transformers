@@ -10,4 +10,6 @@ The files run_training.py, run_pretraining.py and run_finetuning.py are examples
 
 The files run_main.py and run_pretrain_finetuning_main.py are examples of scripts that use run_training.py (run_main.py) and run_pretraining.py and run_finetuning.py (run_pretrain_finetuning_main.py) to do the whole training loop with repetitions and save the models as well as the logs with the results.
 
+The data used in the paper can be found in the repositories: https://zenodo.org/record/6672451#.Y1f30r7MJkg and https://zenodo.org/record/6794924#.Y1f3577MJkg
+
 For questions regarding how to use the code please contact: marcelomatheusgauy@gmail.com
